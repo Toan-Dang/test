@@ -1,10 +1,12 @@
 #include <iostream>
 using namespace std;
-int foo(int a) { return b; }
-//////
-int foo2(int b) { return a; }
+
+////// b1
+
+// b2
+
 int main() {
   cout << "hello";
-  cout << "who there";	
+  cout << "who there";
   return 0;
 }
