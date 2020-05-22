@@ -1,12 +1,9 @@
 #include <iostream>
 using namespace std;
-function = ()=> {
-  return 0;
-}
+function = () = > { return 0; }
 int main() {
   cout << "hello";
-  cout << "thay doi 1 cai gi do";
-  int a = a + b;
-  
+  cout << "thay doi 1 cai gi do...";
+
   return 0;
 }
