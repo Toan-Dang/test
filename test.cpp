@@ -2,7 +2,7 @@
 using namespace std;
 
 ////// b1
-
+cout << "u";
 // b2
 
 int main() {
